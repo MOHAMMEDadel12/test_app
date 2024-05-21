@@ -1,1 +1,11 @@
-void main() {}
+void main() {
+  /// Register screen
+  ///
+  ///
+  ///
+  ///
+  ///
+  ///
+  ///
+  ///
+}
