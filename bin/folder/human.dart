@@ -5,7 +5,7 @@ class Human {
   Human({this.name, this.age});
 
   void work() {
-    print("WORk");
+    print("Sooooooooooooooooooooooooooooooooooda");
   }
 }
 
